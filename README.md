@@ -6,7 +6,7 @@
 
 ## 📸 Preview
 
-![Spotify Clone Preview](./assets/images/preview.png) <!-- Optional: Add a screenshot here -->
+![Spotify Clone Preview]("C:\Users\ASUS\OneDrive\Pictures\Screenshots\ss for spotify.png") <!-- Optional: Add a screenshot here -->
 
 ---
 

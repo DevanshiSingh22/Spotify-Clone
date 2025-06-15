@@ -10,10 +10,7 @@
 
 ---
 
-## 🚀 Live Demo
 
-🔗 [View Project Live](https://your-live-link.com)  
-📂 [View Source Code](https://github.com/yourusername/spotify-clone)
 
 ---
 

@@ -34,21 +34,11 @@
 
 ---
 
-## 📁 Folder Structure
 
-```bash
-spotify-clone/
-│
-├── index.html
-├── style.css
-├── script.js
-└── assets/
-    ├── images/
-    ├── icons/
-    └── audio/
 ## 📬 Let’s Connect
 
 📧 malikdevanshi22@gmail.com  
 🔗 [GitHub](https://github.com/DevanshiSingh22) 
 
 ⭐ Don’t forget to **star** this repository if you found it useful!
+
